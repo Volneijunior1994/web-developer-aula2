@@ -4,5 +4,6 @@ body {
 
 header nav {
     display: flex;
+    margin: auto;
 
 }
